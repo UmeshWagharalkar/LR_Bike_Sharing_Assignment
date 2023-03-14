@@ -54,4 +54,4 @@ Demand of bikes depend on the below veriables:
 
 
 ## Contact
-Created by [https://github.com/UmeshWagharalkar] - feel free to contact me!
+Created by [[UmeshWagharalkar](https://github.com/UmeshWagharalkar)] - feel free to contact me!
